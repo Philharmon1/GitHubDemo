@@ -8,6 +8,7 @@ here is a list of thngs i am passionate about
 - Family
 - Money  :money_mouth_face: 
 - love
+
 My Daughter name is *Jordyn Rogers* :heart_eyes:
 # TO Do List 
 1. Get Food
