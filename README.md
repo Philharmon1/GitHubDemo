@@ -10,7 +10,7 @@ here is a list of thngs i am passionate about
 - love
 
 My Daughter name is *Jordyn Rogers* :heart_eyes:
-![baby picture](/pictures/baby.jpg) 
+ 
 # TO Do List 
 1. Get Food
 1. Get Hair done 
