@@ -43,5 +43,5 @@ console.log(h + l);
  var name = "Phil";
  console.log(counts*name);
 
-
+console.log(2+true);
 
