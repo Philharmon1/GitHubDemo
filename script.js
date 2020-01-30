@@ -45,3 +45,24 @@ console.log(h + l);
 
 console.log(2+true);
 
+// conditional 
+var p = 2;
+console.log(p += 5);
+console.log(p *= 2);
+console.log(p %= 3); // 2
+console.log(p %= 2); // 0
+if(p == 0){
+    console.log("Yes");
+} else {
+    console.log("no");
+}
+if(p > 0){
+    console.log("no");
+}
+if(p = 0){
+    console.log("yes");
+}
+if(p === 0){
+    console.log("no");
+}
+
